@@ -6,6 +6,6 @@ class Taskinator < Formula
   license "MIT"
 
   def install
-    bin.install 'taskinator'
+    system "./configure", *std_configure_args, "--disable-silent-rules"
   end
 end
