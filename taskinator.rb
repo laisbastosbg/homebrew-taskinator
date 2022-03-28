@@ -2,7 +2,7 @@ class Taskinator < Formula
   desc "Quickly manage your tasks from your terminal"
   homepage "https://github.com/laisbastosbg/taskinator"
   url "https://github.com/laisbastosbg/taskinator/releases/download/0.0.2/taskinator"
-  sha256 "0bd7b7db62f90719b7f11e53a25749e0e1a1742c7818e113950b29c0ca326779"
+  sha256 "a6dd23ca6f97f3c7e2cb9545ddd35b781fbd78b66ea0d5be1abbc41c085ce616"
   license "MIT"
 
   def install
