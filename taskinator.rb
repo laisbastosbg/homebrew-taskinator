@@ -6,6 +6,6 @@ class Taskinator < Formula
   license "MIT"
 
   def install
-    bin.install "taskinator"
+    bin.install 'taskinator'
   end
 end
